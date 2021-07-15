@@ -1,0 +1,39 @@
+
+    body {
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJI0cp2d0RiUuHZb1YBS2H5UoqU-4ara1Vrw&usqp=CAU");
+        background-repeat: no-repeat;
+        background-position: 0px 60px;
+        background-size: 1920px;
+        margin-top: 0pxs;
+        
+        background-image: 100%;
+      }
+
+      h1,h4,h5,h6,ul{
+          font-weight: 700em;
+          font-style: normal;
+          color:white;
+            
+      }
+      th{
+          display: flex;
+      }
+      img{
+          width: 100px;
+          height: 100px;
+      }
+      table,tr {
+        border: 1px solid black;
+        border-collapse: collapse;
+        align-content: flex-end;
+
+      }
+      table{
+          width: 100%;
+      }
+
+      
+
+    
+    
+
